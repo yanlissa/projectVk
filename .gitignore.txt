@@ -1,0 +1,2 @@
+labirint_dataset.csv
+.ipynb_checkpoints/*
